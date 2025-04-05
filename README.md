@@ -18,3 +18,7 @@ Includes:
 Perfect for motorsport fans, data analysts, and F1 nerds who want to geek out with data.
 
 Fast F1 API Documentation: https://docs.fastf1.dev/
+
+Tableau Public: https://public.tableau.com/views/Formula12025Calendar_17432099578980/F12025Calendar?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+Blog Post: https://sakhujayash.wixsite.com/yashsakhuja/post/getting-formula1-data-from-fastf1-api
